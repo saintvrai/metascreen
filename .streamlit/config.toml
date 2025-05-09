@@ -1,0 +1,6 @@
+[server]
+port = 20255
+enableCORS = false
+
+[browser]
+gatherUsageStats = false
